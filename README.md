@@ -1,5 +1,7 @@
 # TypedString
 
+[![JitPack](https://jitpack.io/v/Brendan-Black/TypedString.svg)](https://jitpack.io/#Brendan-Black/TypedString)
+
 `black.TypedString`: a marker interface for a type that exists to hold and validate one shaped string, such as a SKU,
 a MAC address or a host name. It declares nothing; "find implementations" on it is the catalogue of every shaped value
 in a codebase. One interface, no dependencies, Java 17+.
